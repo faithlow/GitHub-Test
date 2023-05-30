@@ -1,5 +1,5 @@
-print ("Hello from Faith")
-
-# prints the statement 
+print("Hello from Faith")
+print("hello lulu")
+# prints the statement
 
 input
