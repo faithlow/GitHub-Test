@@ -7,6 +7,6 @@ input
 #comment 2
 
 #comment test for pull
-#its not working
+
 
 print ("Hi from both Faith and Lulu")
